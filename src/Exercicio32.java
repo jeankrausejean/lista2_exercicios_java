@@ -73,7 +73,7 @@ public class Exercicio32 {
 		if (j > maior) {
 			maior = j ;
 			}
-		System.out.printf("O Maior nº eh %d\n", maior);
+		System.out.printf("O Maior nº é %d\n", maior);
 
 		if (b < menor) {
 			menor = b ;
@@ -105,7 +105,7 @@ public class Exercicio32 {
 		if (j < menor) {
 			menor = j ;
 			}
-		System.out.printf("O Menor nº eh %d\n", menor);
+		System.out.printf("O Menor nº é %d\n", menor);
 			input.close();
 		}
 }
