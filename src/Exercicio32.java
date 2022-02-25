@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Teste {
+
+public class Exercicio32 {
 	
 
 	public static void main(String[] args) {
@@ -8,8 +9,6 @@ public class Teste {
 		
 		int a, b, c, d, e, f, g, h, i, j;
 		int menor, maior;
-		
-
 
 		System.out.println("Entre com o 1º número");
 		a = input.nextInt();
