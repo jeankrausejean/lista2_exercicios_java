@@ -10,11 +10,11 @@ public class Exercicio23 {
 		quantidade_maca = in.nextInt();
 		
 		if (quantidade_maca < 12) {
-			System.out.println("O valor da compra foi: R$" + (quantidade_maca * 1.3));
+			System.out.printf("O valor da compra foi: R$" + (quantidade_maca * 1.3));
 		} 
 		 
 		else { 
-			System.out.println("O valor da compra foi: R$" + (quantidade_maca * 1));
+			System.out.printf("O valor da compra foi: R$" + (quantidade_maca * 1));
 		}
 			in.close();
 	}
